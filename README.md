@@ -1,4 +1,4 @@
-# pixel_design-site# Pixel Design Website
+# Pixel Design Website
 
 This is a simple static website for a fictional design studio called **Pixel Design**. The site provides information about the studio's latest news, contests, and development plans. It's a great example of a portfolio website showcasing some of the design studio's projects.
 
